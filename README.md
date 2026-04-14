@@ -1,6 +1,6 @@
 # demeter — AI-Native CMS. AI-native content management system
 
-AI-Native CMS. AI-native content management system. demeter gives you a focused, inspectable implementation of that idea.
+AI-Native CMS. AI-native content management system.
 
 ## Why demeter
 
